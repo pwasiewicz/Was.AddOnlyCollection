@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/pwasiewicz/Was.AddOnlyCollection/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/pwasiewicz/Was.AddOnlyCollection</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple IAddOnlyCollection interface.</description>
+    <releaseNotes>First, init release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Collection Generics AddOnly Add Only</tags>
+  </metadata>
+</package>
