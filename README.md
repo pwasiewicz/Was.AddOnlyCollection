@@ -1,2 +1,2 @@
 # Was.AddOnlyCollection
-A simple interface ```c# IAddOnlyCollection<T> ``` and its implementation.
+A simple interface ``` IAddOnlyCollection<T> ``` and its implementation.
